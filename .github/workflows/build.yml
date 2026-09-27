@@ -1,0 +1,23 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  arduino-uno:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: arduino/compile-sketches@v1
+        with:
+          fqbn: arduino:avr:uno
+          libraries: |
+            - name: Ethernet
+            - name: SD
+          sketch-paths: |
+            - firmware/Webserver_Basic
+            - firmware/Webserver_No_SD
+            - firmware/Webserver_SD
+          enable-warnings-report: true

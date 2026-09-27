@@ -1,0 +1,12 @@
+# Build output
+build/
+*.hex
+*.elf
+*.o
+*.d
+
+# IDE / OS state
+.vscode/
+Thumbs.db
+~$*
+*Zone.Identifier
