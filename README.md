@@ -1,6 +1,6 @@
 # Smart Home Light Webserver
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22991718-blue.svg)](https://doi.org/10.5281/zenodo.22991718) [![Build](https://github.com/josto-me/smarthome-light-webserver/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/smarthome-light-webserver/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22991717-blue.svg)](https://doi.org/10.5281/zenodo.22991717) [![Build](https://github.com/josto-me/smarthome-light-webserver/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/smarthome-light-webserver/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 Ethernet-Lichtfernsteuerung mit Arduino, HTL-Schulprojekt.
 
